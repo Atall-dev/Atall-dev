@@ -34,6 +34,10 @@ const atall = {
 };
 ```
 
+### `> ship`
+
+<img src="./assets/terminal.svg" width="100%" alt="Release pipeline: npm run check, npm run dist, npm run release:verify-artifacts, PULSE 1.3.0 is live">
+
 ### `> stack`
 
 <p>
