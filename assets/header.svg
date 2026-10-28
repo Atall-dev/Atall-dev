@@ -43,10 +43,10 @@
 
   <g transform="translate(72 0)">
     <g class="rise">
-      <rect x="0" y="70" width="322" height="34" rx="17" fill="#131317" stroke="#ece8df" stroke-opacity=".12"/>
+      <rect x="0" y="70" width="244" height="34" rx="17" fill="#131317" stroke="#ece8df" stroke-opacity=".12"/>
       <circle class="blink" cx="20" cy="87" r="5" fill="#34d399"/>
       <circle cx="20" cy="87" r="9" fill="#34d399" opacity=".18"/>
-      <text x="36" y="92" class="m" font-size="13.5" font-weight="600" letter-spacing="1.6" fill="#b9b5ac">ONLINE · SHIPPING PULSE v1.3</text>
+      <text x="36" y="92" class="m" font-size="13.5" font-weight="600" letter-spacing="1.6" fill="#b9b5ac">NOW BUILDING · PULSE</text>
     </g>
     <text class="d rise r2" x="-6" y="238" font-size="156" font-weight="900" font-stretch="125%" letter-spacing="-4" fill="url(#txt)">ATALL</text>
     <text class="s rise r3" x="0" y="290" font-size="27" font-weight="500" fill="#ece8df">I build tools that make Windows feel like a <tspan fill="#b8aeff">cockpit.</tspan></text>

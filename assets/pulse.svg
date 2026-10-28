@@ -73,8 +73,8 @@
     <rect x="1166" y="91" width="10" height="10" rx="1"/>
     <path d="M1192 91 l10 10 m0 -10 l-10 10"/>
   </g>
-  <rect x="582" y="170" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" /><rect x="582" y="216" width="36" height="36" rx="10" fill="#8b7cff" fill-opacity=".25" stroke="#8b7cff" stroke-opacity=".6"/><rect x="582" y="262" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" /><rect x="582" y="308" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" /><rect x="582" y="354" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" /><rect x="582" y="400" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" />
-  <text x="656" y="158" class="s" font-size="17" font-weight="700" fill="#ece8df">Stream · page 1</text>
+  <rect x="582" y="170" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" /><rect x="582" y="216" width="36" height="36" rx="10" fill="#8b7cff" fill-opacity=".25" stroke="#8b7cff" stroke-opacity=".6"/><rect x="582" y="262" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" /><rect x="582" y="308" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" /><rect x="582" y="354" width="36" height="36" rx="10" fill="#1a1a20" fill-opacity="1" />
+  <text x="656" y="158" class="s" font-size="17" font-weight="700" fill="#ece8df">Stream</text>
   <text x="1184" y="158" text-anchor="end" class="m" font-size="11" fill="#7d7a72">CPU</text>
   <rect class="cpu" style="animation-delay:-0.00s;transform-origin:1104px 159px" x="1101" y="143" width="5" height="16" rx="1.5" fill="#34d399"/><rect class="cpu" style="animation-delay:-0.37s;transform-origin:1112px 159px" x="1109" y="143" width="5" height="16" rx="1.5" fill="#34d399"/><rect class="cpu" style="animation-delay:-0.74s;transform-origin:1120px 159px" x="1117" y="143" width="5" height="16" rx="1.5" fill="#34d399"/><rect class="cpu" style="animation-delay:-1.11s;transform-origin:1128px 159px" x="1125" y="143" width="5" height="16" rx="1.5" fill="#34d399"/><rect class="cpu" style="animation-delay:-1.48s;transform-origin:1136px 159px" x="1133" y="143" width="5" height="16" rx="1.5" fill="#34d399"/>
   <g>
@@ -82,67 +82,67 @@
       <rect class="lit" style="animation-delay:0.00s" x="656" y="180" width="168" height="84" rx="14" fill="#8b7cff" fill-opacity=".14" stroke="#8b7cff" stroke-opacity=".9"/>
       <rect x="670" y="194" width="26" height="26" rx="8" fill="#8b7cff" fill-opacity=".22"/>
       <circle cx="683" cy="207" r="5" fill="#8b7cff"/>
-      <text x="670" y="238" class="s" font-size="15" font-weight="600" fill="#ece8df">Go Live</text>
-      <text x="670" y="254" class="m" font-size="10.5" fill="#7d7a72">workflow · 5 steps</text>
+      <text x="670" y="238" class="s" font-size="14.5" font-weight="600" fill="#ece8df">Start Streaming</text>
+      <text x="670" y="254" class="m" font-size="10.5" fill="#7d7a72">workflow · setup</text>
     </g><g>
       <rect x="836" y="180" width="168" height="84" rx="14" fill="#131317" stroke="#ece8df" stroke-opacity=".08"/>
       <rect class="lit" style="animation-delay:0.55s" x="836" y="180" width="168" height="84" rx="14" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".9"/>
       <rect x="850" y="194" width="26" height="26" rx="8" fill="#a78bfa" fill-opacity=".22"/>
       <circle cx="863" cy="207" r="5" fill="#a78bfa"/>
-      <text x="850" y="238" class="s" font-size="15" font-weight="600" fill="#ece8df">OBS</text>
-      <text x="850" y="254" class="m" font-size="10.5" fill="#7d7a72">scene: Main</text>
+      <text x="850" y="238" class="s" font-size="14.5" font-weight="600" fill="#ece8df">Main Scene</text>
+      <text x="850" y="254" class="m" font-size="10.5" fill="#7d7a72">OBS · scene</text>
     </g><g>
       <rect x="1016" y="180" width="168" height="84" rx="14" fill="#131317" stroke="#ece8df" stroke-opacity=".08"/>
-      <rect class="lit" style="animation-delay:1.10s" x="1016" y="180" width="168" height="84" rx="14" fill="#60a5fa" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".9"/>
-      <rect x="1030" y="194" width="26" height="26" rx="8" fill="#60a5fa" fill-opacity=".22"/>
-      <circle cx="1043" cy="207" r="5" fill="#60a5fa"/>
-      <text x="1030" y="238" class="s" font-size="15" font-weight="600" fill="#ece8df">Chrome · Work</text>
-      <text x="1030" y="254" class="m" font-size="10.5" fill="#7d7a72">profile</text>
+      <rect class="lit" style="animation-delay:1.10s" x="1016" y="180" width="168" height="84" rx="14" fill="#f472b6" fill-opacity=".14" stroke="#f472b6" stroke-opacity=".9"/>
+      <rect x="1030" y="194" width="26" height="26" rx="8" fill="#f472b6" fill-opacity=".22"/>
+      <circle cx="1043" cy="207" r="5" fill="#f472b6"/>
+      <text x="1030" y="238" class="s" font-size="14.5" font-weight="600" fill="#ece8df">Mute Mic</text>
+      <text x="1030" y="254" class="m" font-size="10.5" fill="#7d7a72">OBS · Mic/Aux</text>
     </g><g>
       <rect x="656" y="276" width="168" height="84" rx="14" fill="#131317" stroke="#ece8df" stroke-opacity=".08"/>
-      <rect class="lit" style="animation-delay:1.65s" x="656" y="276" width="168" height="84" rx="14" fill="#38bdf8" fill-opacity=".14" stroke="#38bdf8" stroke-opacity=".9"/>
-      <rect x="670" y="290" width="26" height="26" rx="8" fill="#38bdf8" fill-opacity=".22"/>
-      <circle cx="683" cy="303" r="5" fill="#38bdf8"/>
-      <text x="670" y="334" class="s" font-size="15" font-weight="600" fill="#ece8df">VS Code</text>
-      <text x="670" y="350" class="m" font-size="10.5" fill="#7d7a72">app</text>
+      <rect class="lit" style="animation-delay:1.65s" x="656" y="276" width="168" height="84" rx="14" fill="#f87171" fill-opacity=".14" stroke="#f87171" stroke-opacity=".9"/>
+      <rect x="670" y="290" width="26" height="26" rx="8" fill="#f87171" fill-opacity=".22"/>
+      <circle cx="683" cy="303" r="5" fill="#f87171"/>
+      <text x="670" y="334" class="s" font-size="14.5" font-weight="600" fill="#ece8df">Start Recording</text>
+      <text x="670" y="350" class="m" font-size="10.5" fill="#7d7a72">OBS · record</text>
     </g><g>
       <rect x="836" y="276" width="168" height="84" rx="14" fill="#131317" stroke="#ece8df" stroke-opacity=".08"/>
-      <rect class="lit" style="animation-delay:2.20s" x="836" y="276" width="168" height="84" rx="14" fill="#67e8f9" fill-opacity=".14" stroke="#67e8f9" stroke-opacity=".9"/>
-      <rect x="850" y="290" width="26" height="26" rx="8" fill="#67e8f9" fill-opacity=".22"/>
-      <circle cx="863" cy="303" r="5" fill="#67e8f9"/>
-      <text x="850" y="334" class="s" font-size="15" font-weight="600" fill="#ece8df">Focus mode</text>
-      <text x="850" y="350" class="m" font-size="10.5" fill="#7d7a72">layout · 3 windows</text>
+      <rect class="lit" style="animation-delay:2.20s" x="836" y="276" width="168" height="84" rx="14" fill="#818cf8" fill-opacity=".14" stroke="#818cf8" stroke-opacity=".9"/>
+      <rect x="850" y="290" width="26" height="26" rx="8" fill="#818cf8" fill-opacity=".22"/>
+      <circle cx="863" cy="303" r="5" fill="#818cf8"/>
+      <text x="850" y="334" class="s" font-size="14.5" font-weight="600" fill="#ece8df">Stream Ending</text>
+      <text x="850" y="350" class="m" font-size="10.5" fill="#7d7a72">OBS · scene</text>
     </g><g>
       <rect x="1016" y="276" width="168" height="84" rx="14" fill="#131317" stroke="#ece8df" stroke-opacity=".08"/>
-      <rect class="lit" style="animation-delay:2.75s" x="1016" y="276" width="168" height="84" rx="14" fill="#818cf8" fill-opacity=".14" stroke="#818cf8" stroke-opacity=".9"/>
-      <rect x="1030" y="290" width="26" height="26" rx="8" fill="#818cf8" fill-opacity=".22"/>
-      <circle cx="1043" cy="303" r="5" fill="#818cf8"/>
-      <text x="1030" y="334" class="s" font-size="15" font-weight="600" fill="#ece8df">Discord</text>
-      <text x="1030" y="350" class="m" font-size="10.5" fill="#7d7a72">app</text>
+      <rect class="lit" style="animation-delay:2.75s" x="1016" y="276" width="168" height="84" rx="14" fill="#60a5fa" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".9"/>
+      <rect x="1030" y="290" width="26" height="26" rx="8" fill="#60a5fa" fill-opacity=".22"/>
+      <circle cx="1043" cy="303" r="5" fill="#60a5fa"/>
+      <text x="1030" y="334" class="s" font-size="14.5" font-weight="600" fill="#ece8df">Open Browser</text>
+      <text x="1030" y="350" class="m" font-size="10.5" fill="#7d7a72">Chrome · main profile</text>
     </g><g>
       <rect x="656" y="372" width="168" height="84" rx="14" fill="#131317" stroke="#ece8df" stroke-opacity=".08"/>
-      <rect class="lit" style="animation-delay:3.30s" x="656" y="372" width="168" height="84" rx="14" fill="#34d399" fill-opacity=".14" stroke="#34d399" stroke-opacity=".9"/>
-      <rect x="670" y="386" width="26" height="26" rx="8" fill="#34d399" fill-opacity=".22"/>
-      <circle cx="683" cy="399" r="5" fill="#34d399"/>
-      <text x="670" y="430" class="s" font-size="15" font-weight="600" fill="#ece8df">Spotify</text>
-      <text x="670" y="446" class="m" font-size="10.5" fill="#7d7a72">app</text>
+      <rect class="lit" style="animation-delay:3.30s" x="656" y="372" width="168" height="84" rx="14" fill="#67e8f9" fill-opacity=".14" stroke="#67e8f9" stroke-opacity=".9"/>
+      <rect x="670" y="386" width="26" height="26" rx="8" fill="#67e8f9" fill-opacity=".22"/>
+      <circle cx="683" cy="399" r="5" fill="#67e8f9"/>
+      <text x="670" y="430" class="s" font-size="14.5" font-weight="600" fill="#ece8df">Close Browser</text>
+      <text x="670" y="446" class="m" font-size="10.5" fill="#7d7a72">asks first</text>
     </g><g>
       <rect x="836" y="372" width="168" height="84" rx="14" fill="#131317" stroke="#ece8df" stroke-opacity=".08"/>
-      <rect class="lit" style="animation-delay:3.85s" x="836" y="372" width="168" height="84" rx="14" fill="#fbbf24" fill-opacity=".14" stroke="#fbbf24" stroke-opacity=".9"/>
-      <rect x="850" y="386" width="26" height="26" rx="8" fill="#fbbf24" fill-opacity=".22"/>
-      <circle cx="863" cy="399" r="5" fill="#fbbf24"/>
-      <text x="850" y="430" class="s" font-size="15" font-weight="600" fill="#ece8df">Clean up</text>
-      <text x="850" y="446" class="m" font-size="10.5" fill="#7d7a72">smart cleanup</text>
+      <rect class="lit" style="animation-delay:3.85s" x="836" y="372" width="168" height="84" rx="14" fill="#34d399" fill-opacity=".14" stroke="#34d399" stroke-opacity=".9"/>
+      <rect x="850" y="386" width="26" height="26" rx="8" fill="#34d399" fill-opacity=".22"/>
+      <circle cx="863" cy="399" r="5" fill="#34d399"/>
+      <text x="850" y="430" class="s" font-size="14.5" font-weight="600" fill="#ece8df">Sound</text>
+      <text x="850" y="446" class="m" font-size="10.5" fill="#7d7a72">Windows settings</text>
     </g><g>
       <rect x="1016" y="372" width="168" height="84" rx="14" fill="#131317" stroke="#ece8df" stroke-opacity=".08"/>
-      <rect class="lit" style="animation-delay:4.40s" x="1016" y="372" width="168" height="84" rx="14" fill="#f472b6" fill-opacity=".14" stroke="#f472b6" stroke-opacity=".9"/>
-      <rect x="1030" y="386" width="26" height="26" rx="8" fill="#f472b6" fill-opacity=".22"/>
-      <circle cx="1043" cy="399" r="5" fill="#f472b6"/>
-      <text x="1030" y="430" class="s" font-size="15" font-weight="600" fill="#ece8df">Morning</text>
-      <text x="1030" y="446" class="m" font-size="10.5" fill="#7d7a72">workflow · 7 steps</text>
+      <rect class="lit" style="animation-delay:4.40s" x="1016" y="372" width="168" height="84" rx="14" fill="#fbbf24" fill-opacity=".14" stroke="#fbbf24" stroke-opacity=".9"/>
+      <rect x="1030" y="386" width="26" height="26" rx="8" fill="#fbbf24" fill-opacity=".22"/>
+      <circle cx="1043" cy="399" r="5" fill="#fbbf24"/>
+      <text x="1030" y="430" class="s" font-size="14.5" font-weight="600" fill="#ece8df">End Streaming</text>
+      <text x="1030" y="446" class="m" font-size="10.5" fill="#7d7a72">closes what it opened</text>
     </g>
   <g transform="translate(656 490)">
-    <text x="0" y="0" class="m" font-size="11" fill="#9a968d">▶ Go Live — opening OBS, switching scene, starting stream…</text>
+    <text x="0" y="0" class="m" font-size="11" fill="#9a968d">▶ Start Streaming Setup — opening OBS, switching scene, opening pages…</text>
     <rect x="0" y="10" width="528" height="5" rx="2.5" fill="#1a1a20"/>
     <rect class="bar" style="transform-origin:0 0" x="0" y="10" width="528" height="5" rx="2.5" fill="url(#prog)"/>
   </g>
